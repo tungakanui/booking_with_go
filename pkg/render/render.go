@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/tungakanui/booking_go/pkg/config"
-	"github.com/tungakanui/booking_go/pkg/models"
+	"github.com/tungakanui/booking_with_go/pkg/config"
+	"github.com/tungakanui/booking_with_go/pkg/models"
 )
 
 var functions = template.FuncMap{}
